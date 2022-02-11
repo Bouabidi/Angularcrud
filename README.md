@@ -419,4 +419,8 @@ export class ViewComponent implements OnInit {
 ```
 
 ##  update app.component.html
+add the following
+```javascript
 <router-outlet></router-outlet>
+```
+
