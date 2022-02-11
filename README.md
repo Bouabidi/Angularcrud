@@ -1,10 +1,12 @@
 # Angularcrud
 
-## ng new my-crud-app --routing
+## create App
 
-## npm install bootstrap --save
+1. ng new my-crud-app --routing
 
-## ng generate module post --routing
+2. npm install bootstrap --save
+
+3. ng generate module post --routing
 
 ## components
 1. ng generate component post/index
